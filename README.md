@@ -1,25 +1,32 @@
-# Olá, eu sou o Luiz Henrique 👋
+<div align="center">
+  <h1>Hello people!<br>I'm Luiz Henrique 👋</h1>
 
-Sou desenvolvedor de software e estudante na **Cesar School**, focado em criar aplicações escaláveis e eficientes. Tenho experiência prática no desenvolvimento de aplicações Fullstack e em engenharia de dados.
+  <h3>Social media 📱</h3>
 
-### 🚀 Sobre mim
-Atualmente, estou aprofundando meus conhecimentos no ecossistema **Java e Spring Boot** para o desenvolvimento de APIs REST, enquanto aplico tecnologias modernas como **Next.js e TypeScript** em projetos reais.
 
-- 💼 Desenvolvedor do projeto de migração de dados em parceria com a **NTT DATA**.
-- 💻 Experiência com entregas freelance, focando em performance e SEO.
-
-### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Java, TypeScript, JavaScript.
-- **Frontend:** React, Next.js, Tailwind CSS.
-- **Backend:** Spring Boot, Node.js, Firebase.
-- **Dados:** PySpark, Pandas (Migração e manipulação de grandes volumes de dados).
-
-### 📈 Projetos em Destaque
-- **Hackathon EDScript (Esportes da Sorte):** Desenvolvimento de uma solução tecnológica durante a competição, focando em construir uma solução para transformar dados complexos em algo simples.
-- **Plataforma para Advocacia:** Site profissional desenvolvido com Next.js e TypeScript para cliente real, focado em alta performance e interface responsiva.
-- **Data Engineering (NTT DATA):** Migração estratégica de processos de análise de dados de Pandas para PySpark, otimizando o processamento de grandes datasets.
+  <a href="https://www.linkedin.com/in/luiz-henrique-rocha-silva-450362337/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
 
 ---
 
-📫 **Conecte-se comigo:**
-[https://www.linkedin.com/in/luiz-henrique-rocha-silva-450362337/] | [luiz.rochahenrique2006@gmail.com]
+## About Me 🔅
+
+- 🎓 I'm a Systems Analysis and Development student at [Cesar School](https://www.cesar.school/)
+- 📖 Deepening my knowledge in the **Java & Spring Boot** ecosystem
+- 💻 Developing Fullstack applications with **Next.js** and **express**
+- 🏆 Participant of the Hackathon **EDScript**
+- 💼 Contributor on the data migration project in partnership with **NTT DATA**
+
+
+## Most used languages and Tools! ⚓
+
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</div>
