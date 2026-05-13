@@ -13,8 +13,7 @@
 
 - 🎓 I'm a Systems Analysis and Development student at [Cesar School](https://www.cesar.school/)
 - 💻 Developing Fullstack applications with **Next.js** and **express**
-- 🏆 Participant of the Hackathon **EDScript**
-- 💼 Contributor on the data migration project in partnership with **NTT DATA**
+
 
 
 ## Most used languages and Tools! ⚓
