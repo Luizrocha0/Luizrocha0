@@ -12,7 +12,6 @@
 ## About Me 🔅
 
 - 🎓 I'm a Systems Analysis and Development student at [Cesar School](https://www.cesar.school/)
-- 📖 Deepening my knowledge in the **Java & Spring Boot** ecosystem
 - 💻 Developing Fullstack applications with **Next.js** and **express**
 - 🏆 Participant of the Hackathon **EDScript**
 - 💼 Contributor on the data migration project in partnership with **NTT DATA**
